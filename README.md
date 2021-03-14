@@ -1,4 +1,6 @@
 # Fisrtly
+Write this summer to the terminal
+
 
 #### `cd API`
 #### `json-server --watch db.json`
